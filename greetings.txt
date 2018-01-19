@@ -1,0 +1,1 @@
+Hello worldHello World!Hello WorldHello gabiHello WorldHello ${user.username}!Hello WorldHello gabi!Hello World
